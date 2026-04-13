@@ -23,39 +23,39 @@ msgstr ""
 #. module: vet
 #: model_terms:ir.ui.view,arch_db:vet.vet_form_view
 msgid "<span>Mts.</span>"
-msgstr ""
+msgstr "m"
 
 #. module: vet
 #: model_terms:ir.ui.view,arch_db:vet.animal_visit_kanban_view
 msgid "<strong> Animal</strong>:"
-msgstr ""
+msgstr "Animal"
 
 #. module: vet
 #: model_terms:ir.ui.view,arch_db:vet.vet_kanban_view
 msgid "<strong>ID</strong>:"
-msgstr ""
+msgstr "ID"
 
 #. module: vet
 #: model_terms:ir.ui.view,arch_db:vet.animal_visit_kanban_view
 msgid "<strong>Owner</strong>:"
-msgstr ""
+msgstr "Propietari"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__message_needaction
 #: model:ir.model.fields,field_description:vet.field_animal_visit__message_needaction
 msgid "Action Needed"
-msgstr ""
+msgstr "Acció Necessària"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__active
 msgid "Active"
-msgstr ""
+msgstr "Actiu"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__activity_ids
 #: model:ir.model.fields,field_description:vet.field_animal_visit__activity_ids
 msgid "Activities"
-msgstr ""
+msgstr "Activitats"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__activity_exception_decoration
@@ -67,13 +67,13 @@ msgstr ""
 #: model:ir.model.fields,field_description:vet.field_animal__activity_state
 #: model:ir.model.fields,field_description:vet.field_animal_visit__activity_state
 msgid "Activity State"
-msgstr ""
+msgstr "Estat Activitat"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__activity_type_icon
 #: model:ir.model.fields,field_description:vet.field_animal_visit__activity_type_icon
 msgid "Activity Type Icon"
-msgstr ""
+msgstr "Icona Tipus d'activitat"
 
 #. module: vet
 #: model:ir.actions.act_window,name:vet.allergy_action
@@ -82,96 +82,96 @@ msgstr ""
 #: model:ir.ui.menu,name:vet.menu_allergies_list
 #: model_terms:ir.ui.view,arch_db:vet.vet_form_view
 msgid "Allergies"
-msgstr ""
+msgstr "Al·lèrgies"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal_visit__animal_id
 #: model:ir.model.fields,field_description:vet.field_animal_visit__name
 #: model_terms:ir.ui.view,arch_db:vet.animal_visit_search_view
 msgid "Animal"
-msgstr ""
+msgstr "Animal"
 
 #. module: vet
 #: model:ir.model,name:vet.model_animal_allergy
 msgid "Animal allergies table"
-msgstr ""
+msgstr "Taula d'al·lèrgies"
 
 #. module: vet
 #: model:ir.model,name:vet.model_animal_breed
 msgid "Animal breeds table"
-msgstr ""
+msgstr "Taula de races"
 
 #. module: vet
 #: model:ir.model,name:vet.model_animal_disease
 msgid "Animal diseases table"
-msgstr ""
+msgstr "Taula de malalties"
 
 #. module: vet
 #: model_terms:ir.ui.view,arch_db:vet.vet_search_view
 msgid "Animal info"
-msgstr ""
+msgstr "Informació de l'animal"
 
 #. module: vet
 #: model:ir.model,name:vet.model_animal_medicine
 msgid "Animal medicines table"
-msgstr ""
+msgstr "Taula de medicaments"
 
 #. module: vet
 #: model:ir.model,name:vet.model_animal_surgery
 msgid "Animal surgeries table"
-msgstr ""
+msgstr "Taula de cirurgies"
 
 #. module: vet
 #: model:ir.model,name:vet.model_animal_tag
 msgid "Animal tags table"
-msgstr ""
+msgstr "Taula d'etiquetes"
 
 #. module: vet
 #: model:ir.model,name:vet.model_animal_vaccine
 msgid "Animal vaccines table"
-msgstr ""
+msgstr "Taula de vacunes"
 
 #. module: vet
 #: model:ir.actions.act_window,name:vet.animals_action
 #: model:ir.ui.menu,name:vet.menu_animals_list
 msgid "Animals"
-msgstr ""
+msgstr "Animals"
 
 #. module: vet
 #: model:ir.model,name:vet.model_animal_insurance
 msgid "Animals insurances table"
-msgstr ""
+msgstr "Taula d'assegurances"
 
 #. module: vet
 #: model:ir.model,name:vet.model_animal_specie
 msgid "Animals species table"
-msgstr ""
+msgstr "Taula d'espècies"
 
 #. module: vet
 #: model:ir.model,name:vet.model_animal
 msgid "Animals table"
-msgstr ""
+msgstr "Taula d'animals"
 
 #. module: vet
 #: model:ir.model,name:vet.model_animal_visit
 msgid "Animals visits table"
-msgstr ""
+msgstr "Taula de visites"
 
 #. module: vet
 #: model_terms:ir.ui.view,arch_db:vet.vet_search_view
 msgid "Archived"
-msgstr ""
+msgstr "Archivat"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__message_attachment_count
 #: model:ir.model.fields,field_description:vet.field_animal_visit__message_attachment_count
 msgid "Attachment Count"
-msgstr ""
+msgstr "Num. adjunts"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__birthdate
 msgid "Birthdate"
-msgstr ""
+msgstr "Data de naixament"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__breed
@@ -180,29 +180,29 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:vet.animal_visit_search_view
 #: model_terms:ir.ui.view,arch_db:vet.vet_search_view
 msgid "Breed"
-msgstr ""
+msgstr "Raça"
 
 #. module: vet
 #: model:ir.actions.act_window,name:vet.breed_action
 #: model:ir.ui.menu,name:vet.menu_breeds_list
 msgid "Breeds"
-msgstr ""
+msgstr "Races"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal_insurance__characteristics
 #: model:ir.model.fields,field_description:vet.field_animal_specie__characteristics
 msgid "Characteristics"
-msgstr ""
+msgstr "Caracteris"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal_tag__color
 msgid "Color"
-msgstr ""
+msgstr "Color"
 
 #. module: vet
 #: model:ir.ui.menu,name:vet.menu_configuration
 msgid "Configuration"
-msgstr ""
+msgstr "Configuració"
 
 #. module: vet
 #: model:ir.model,name:vet.model_res_partner
@@ -212,12 +212,12 @@ msgstr "Contacte"
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal_insurance__cost
 msgid "Cost"
-msgstr ""
+msgstr "Cost"
 
 #. module: vet
 #: model_terms:ir.ui.view,arch_db:vet.vet_form_view
 msgid "Create Quote"
-msgstr ""
+msgstr "Crear pressupost"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__create_uid
@@ -232,7 +232,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:vet.field_animal_vaccine__create_uid
 #: model:ir.model.fields,field_description:vet.field_animal_visit__create_uid
 msgid "Created by"
-msgstr ""
+msgstr "Creat per"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__create_date
@@ -247,13 +247,13 @@ msgstr ""
 #: model:ir.model.fields,field_description:vet.field_animal_vaccine__create_date
 #: model:ir.model.fields,field_description:vet.field_animal_visit__create_date
 msgid "Created on"
-msgstr ""
+msgstr "Creat el"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal_visit__date
 #: model_terms:ir.ui.view,arch_db:vet.animal_visit_search_view
 msgid "Date"
-msgstr ""
+msgstr "Data"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal_allergy__description
@@ -262,12 +262,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:vet.field_animal_tag__description
 #: model:ir.model.fields,field_description:vet.field_animal_vaccine__description
 msgid "Description"
-msgstr ""
+msgstr "Descripció"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__diseases
 msgid "Diseases"
-msgstr ""
+msgstr "Malalties"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__display_name
@@ -282,24 +282,24 @@ msgstr ""
 #: model:ir.model.fields,field_description:vet.field_animal_vaccine__display_name
 #: model:ir.model.fields,field_description:vet.field_animal_visit__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "Nom mostrat"
 
 #. module: vet
 #: model:ir.model.fields.selection,name:vet.selection__animal__sex__female
 msgid "Female"
-msgstr ""
+msgstr "Femella"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__message_follower_ids
 #: model:ir.model.fields,field_description:vet.field_animal_visit__message_follower_ids
 msgid "Followers"
-msgstr ""
+msgstr "Seguidors"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__message_partner_ids
 #: model:ir.model.fields,field_description:vet.field_animal_visit__message_partner_ids
 msgid "Followers (Partners)"
-msgstr ""
+msgstr "Seguidors"
 
 #. module: vet
 #: model:ir.model.fields,help:vet.field_animal__activity_type_icon
@@ -317,7 +317,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:vet.field_animal__height
 #: model_terms:ir.ui.view,arch_db:vet.vet_form_view
 msgid "Height"
-msgstr ""
+msgstr "Altura"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__id
@@ -333,13 +333,13 @@ msgstr ""
 #: model:ir.model.fields,field_description:vet.field_animal_vaccine__id
 #: model:ir.model.fields,field_description:vet.field_animal_visit__id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__activity_exception_icon
 #: model:ir.model.fields,field_description:vet.field_animal_visit__activity_exception_icon
 msgid "Icon"
-msgstr ""
+msgstr "Icona"
 
 #. module: vet
 #: model:ir.model.fields,help:vet.field_animal__activity_exception_icon
@@ -366,30 +366,30 @@ msgstr ""
 #: model:ir.model.fields,field_description:vet.field_animal_insurance__name
 #: model_terms:ir.ui.view,arch_db:vet.vet_search_view
 msgid "Insurance"
-msgstr ""
+msgstr "Assegurança"
 
 #. module: vet
 #: model:ir.actions.act_window,name:vet.insurance_action
 #: model:ir.ui.menu,name:vet.menu_insurances_list
 msgid "Insurances"
-msgstr ""
+msgstr "Assegurances"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__invoice_count
 #: model_terms:ir.ui.view,arch_db:vet.vet_form_view
 msgid "Invoices"
-msgstr ""
+msgstr "Factures"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__message_is_follower
 #: model:ir.model.fields,field_description:vet.field_animal_visit__message_is_follower
 msgid "Is Follower"
-msgstr ""
+msgstr "Es seguidor"
 
 #. module: vet
 #: model:ir.model.fields.selection,name:vet.selection__animal__size__large
 msgid "Large"
-msgstr ""
+msgstr "Gran"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__write_uid
@@ -404,7 +404,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:vet.field_animal_vaccine__write_uid
 #: model:ir.model.fields,field_description:vet.field_animal_visit__write_uid
 msgid "Last Updated by"
-msgstr ""
+msgstr "Darrera actualització per"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__write_date
@@ -419,12 +419,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:vet.field_animal_vaccine__write_date
 #: model:ir.model.fields,field_description:vet.field_animal_visit__write_date
 msgid "Last Updated on"
-msgstr ""
+msgstr "Darrera actualització el"
 
 #. module: vet
 #: model:ir.model.fields.selection,name:vet.selection__animal__sex__male
 msgid "Male"
-msgstr ""
+msgstr "Mascle"
 
 #. module: vet
 #: model:ir.ui.menu,name:vet.menu_medical_management
@@ -434,7 +434,7 @@ msgstr ""
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal_medicine__name
 msgid "Medicine"
-msgstr ""
+msgstr "Medicació"
 
 #. module: vet
 #: model:ir.actions.act_window,name:vet.medicine_action
@@ -442,12 +442,12 @@ msgstr ""
 #: model:ir.ui.menu,name:vet.menu_medicines_list
 #: model_terms:ir.ui.view,arch_db:vet.vet_form_view
 msgid "Medicines"
-msgstr ""
+msgstr "Medicació"
 
 #. module: vet
 #: model:ir.model.fields.selection,name:vet.selection__animal__size__medium
 msgid "Medium"
-msgstr ""
+msgstr "Mitja"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__message_has_error
@@ -459,20 +459,20 @@ msgstr ""
 #: model:ir.model.fields,field_description:vet.field_animal__message_ids
 #: model:ir.model.fields,field_description:vet.field_animal_visit__message_ids
 msgid "Messages"
-msgstr ""
+msgstr "Missatges"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__my_activity_date_deadline
 #: model:ir.model.fields,field_description:vet.field_animal_visit__my_activity_date_deadline
 msgid "My Activity Deadline"
-msgstr ""
+msgstr "Data límit de la meva activitat"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__name
 #: model_terms:ir.ui.view,arch_db:vet.animal_partner
 #: model_terms:ir.ui.view,arch_db:vet.vet_form_view
 msgid "Name"
-msgstr ""
+msgstr "Nom"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__activity_date_deadline
@@ -496,19 +496,19 @@ msgstr ""
 #: model:ir.model.fields,field_description:vet.field_animal__internal_notes
 #: model_terms:ir.ui.view,arch_db:vet.vet_form_view
 msgid "Notes"
-msgstr ""
+msgstr "Notes"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__message_needaction_counter
 #: model:ir.model.fields,field_description:vet.field_animal_visit__message_needaction_counter
 msgid "Number of Actions"
-msgstr ""
+msgstr "Num. accions"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__message_has_error_counter
 #: model:ir.model.fields,field_description:vet.field_animal_visit__message_has_error_counter
 msgid "Number of errors"
-msgstr ""
+msgstr "Num. errors"
 
 #. module: vet
 #: model:ir.model.fields,help:vet.field_animal__message_needaction_counter
@@ -527,12 +527,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:vet.field_animal_surgery__observations
 #: model:ir.model.fields,field_description:vet.field_animal_visit__observations
 msgid "Observations"
-msgstr ""
+msgstr "Observacions"
 
 #. module: vet
 #: model_terms:ir.ui.view,arch_db:vet.vet_form_view
 msgid "Other information"
-msgstr ""
+msgstr "Altra informació"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__owner
@@ -540,50 +540,50 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:vet.animal_visit_search_view
 #: model_terms:ir.ui.view,arch_db:vet.vet_search_view
 msgid "Owner"
-msgstr ""
+msgstr "Propietari"
 
 #. module: vet
 #: model_terms:ir.ui.view,arch_db:vet.vet_kanban_view
 msgid "Owner:"
-msgstr ""
+msgstr Propietari:""
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_res_partner__pet
 #: model:ir.model.fields,field_description:vet.field_res_users__pet
 msgid "Pet"
-msgstr ""
+msgstr "Mascota"
 
 #. module: vet
 #: model_terms:ir.ui.view,arch_db:vet.animal_partner
 msgid "Pets"
-msgstr ""
+msgstr "Mascotes"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__photo
 msgid "Photo"
-msgstr ""
+msgstr "Foto"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__quote_count
 #: model_terms:ir.ui.view,arch_db:vet.vet_form_view
 msgid "Quotes"
-msgstr ""
+msgstr "Pressupostos"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal_visit__reason
 msgid "Reason"
-msgstr ""
+msgstr "Raó"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal_visit__sequence
 msgid "Reference"
-msgstr ""
+msgstr "Referència"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__activity_user_id
 #: model:ir.model.fields,field_description:vet.field_animal_visit__activity_user_id
 msgid "Responsible User"
-msgstr ""
+msgstr "Usuari responsable"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__message_has_sms_error
@@ -597,18 +597,18 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:vet.animal_visit_search_view
 #: model_terms:ir.ui.view,arch_db:vet.vet_search_view
 msgid "Sex"
-msgstr ""
+msgstr "Sexe"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__size
 #: model_terms:ir.ui.view,arch_db:vet.vet_search_view
 msgid "Size"
-msgstr ""
+msgstr "Mida"
 
 #. module: vet
 #: model:ir.model.fields.selection,name:vet.selection__animal__size__small
 msgid "Small"
-msgstr ""
+msgstr "Petit"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__species
@@ -618,13 +618,13 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:vet.animal_visit_search_view
 #: model_terms:ir.ui.view,arch_db:vet.vet_search_view
 msgid "Specie"
-msgstr ""
+msgstr "Espècie"
 
 #. module: vet
 #: model:ir.actions.act_window,name:vet.specie_action
 #: model:ir.ui.menu,name:vet.menu_species_list
 msgid "Species"
-msgstr ""
+msgstr "Espècies"
 
 #. module: vet
 #: model:ir.model.fields,help:vet.field_animal__activity_state
@@ -639,12 +639,12 @@ msgstr ""
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal_visit__suggested_treatment
 msgid "Suggested treatment"
-msgstr ""
+msgstr "Tractament suggerit"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal_disease__name
 msgid "Surgerie"
-msgstr ""
+msgstr "Cirurgia"
 
 #. module: vet
 #: model:ir.actions.act_window,name:vet.surgery_action
@@ -652,24 +652,24 @@ msgstr ""
 #: model:ir.ui.menu,name:vet.menu_surgeries_list
 #: model_terms:ir.ui.view,arch_db:vet.vet_form_view
 msgid "Surgeries"
-msgstr ""
+msgstr "Cirurgies"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal_surgery__name
 msgid "Surgery"
-msgstr ""
+msgstr "Cirurgia"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal_tag__name
 msgid "Tag"
-msgstr ""
+msgstr "Etiqueta"
 
 #. module: vet
 #: model:ir.actions.act_window,name:vet.tag_action
 #: model:ir.model.fields,field_description:vet.field_animal__tags
 #: model:ir.ui.menu,name:vet.menu_tags_list
 msgid "Tags"
-msgstr ""
+msgstr "Etiquetes"
 
 #. module: vet
 #: model:ir.model.fields,help:vet.field_animal__activity_exception_decoration
@@ -680,7 +680,7 @@ msgstr ""
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal_vaccine__name
 msgid "Vaccine"
-msgstr ""
+msgstr "Vacuna"
 
 #. module: vet
 #: model:ir.actions.act_window,name:vet.vaccine_action
@@ -688,7 +688,7 @@ msgstr ""
 #: model:ir.ui.menu,name:vet.menu_vaccines_list
 #: model_terms:ir.ui.view,arch_db:vet.vet_form_view
 msgid "Vaccines"
-msgstr ""
+msgstr "Vacunes"
 
 #. module: vet
 #: model:ir.ui.menu,name:vet.menu_animals
@@ -698,12 +698,12 @@ msgstr ""
 #. module: vet
 #: model_terms:ir.ui.view,arch_db:vet.animal_visit_search_view
 msgid "Visit info"
-msgstr ""
+msgstr "Informació de visita"
 
 #. module: vet
 #: model_terms:ir.ui.view,arch_db:vet.vet_search_view
 msgid "Visited"
-msgstr ""
+msgstr "Visitat"
 
 #. module: vet
 #: model:ir.actions.act_window,name:vet.visit_action
@@ -712,7 +712,7 @@ msgstr ""
 #: model:ir.ui.menu,name:vet.menu_visits_list
 #: model_terms:ir.ui.view,arch_db:vet.vet_form_view
 msgid "Visits"
-msgstr ""
+msgstr "Visites"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__website_message_ids
@@ -730,9 +730,9 @@ msgstr ""
 #: model:ir.model.fields,field_description:vet.field_animal__weight
 #: model_terms:ir.ui.view,arch_db:vet.vet_form_view
 msgid "Weight"
-msgstr ""
+msgstr "Pes"
 
 #. module: vet
 #: model_terms:ir.ui.view,arch_db:vet.vet_search_view
 msgid "With surgeries"
-msgstr ""
+msgstr "Amb cirurgies"

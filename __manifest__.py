@@ -12,9 +12,9 @@ Features:
 - Medicines, vaccines, allergies, surgeries and insurances
 - Quotes and invoices from the owner
 """,
-    'author': 'JD Solutions / Adapted for Odoo 18',
-    'website': 'https://javierdiez.netlify.app/',
-    'license': 'AGPL-3',
+    'author': 'Anatoly Lutaev',
+    'website': '',
+    'license': '',
     'category': 'Services',
     'version': '18.0.1.0.0',
     'depends': ['base', 'mail', 'contacts', 'account', 'sale_management'],

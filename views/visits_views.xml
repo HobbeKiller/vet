@@ -31,17 +31,17 @@
             </field>
         </record>
 
-        <record id="visit_tree_view" model="ir.ui.view">
-            <field name="name">animal.visit.tree.view</field>
+        <record id="visit_list_view" model="ir.ui.view">
+            <field name="name">animal.visit.list.view</field>
             <field name="model">animal.visit</field>
             <field name="arch" type="xml">
-                <tree>
+                <list>
                     <field name="sequence" />
                     <field name="animal_id" />
                     <field name="owner" />
                     <field name="reason" />
                     <field name="date" />
-                </tree>
+                </list>
             </field>
         </record>
 
@@ -120,7 +120,7 @@
         <record id="visit_action" model="ir.actions.act_window">
             <field name="name">Visits</field>
             <field name="res_model">animal.visit</field>
-            <field name="view_mode">search,tree,form,kanban,pivot</field>
+            <field name="view_mode">list,form,kanban,pivot</field>
         </record>
     </data>
 </odoo>

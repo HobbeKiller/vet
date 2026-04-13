@@ -4,7 +4,7 @@
         <record id="vaccine_action" model="ir.actions.act_window">
             <field name="name">Vaccines</field>
             <field name="res_model">animal.vaccine</field>
-            <field name="view_mode">tree,form</field>
+            <field name="view_mode">list,form</field>
         </record>
     </data>
 </odoo>

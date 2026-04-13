@@ -8,12 +8,12 @@
                 <xpath expr="//page[@name='internal_notes']" position="after">
                     <page string="Pets">
                         <field name="pet">
-                            <tree>
+                            <list>
                                 <field name="name" />
                                 <field name="species" />
                                 <field name="breed" />
                                 <field name="sex" />
-                            </tree>
+                            </list>
                             <form>
                                 <sheet>
                                     <div class="d-flex justify-content-between">

@@ -1,0 +1,1 @@
+el .po corresponde a cada idioma del modulo

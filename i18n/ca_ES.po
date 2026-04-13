@@ -1,0 +1,738 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* vet
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 18.0-20260305\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-04-13 08:14+0000\n"
+"PO-Revision-Date: 2026-04-13 08:14+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: vet
+#: model_terms:ir.ui.view,arch_db:vet.vet_form_view
+msgid "<span>Kg.</span>"
+msgstr ""
+
+#. module: vet
+#: model_terms:ir.ui.view,arch_db:vet.vet_form_view
+msgid "<span>Mts.</span>"
+msgstr ""
+
+#. module: vet
+#: model_terms:ir.ui.view,arch_db:vet.animal_visit_kanban_view
+msgid "<strong> Animal</strong>:"
+msgstr ""
+
+#. module: vet
+#: model_terms:ir.ui.view,arch_db:vet.vet_kanban_view
+msgid "<strong>ID</strong>:"
+msgstr ""
+
+#. module: vet
+#: model_terms:ir.ui.view,arch_db:vet.animal_visit_kanban_view
+msgid "<strong>Owner</strong>:"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__message_needaction
+#: model:ir.model.fields,field_description:vet.field_animal_visit__message_needaction
+msgid "Action Needed"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__active
+msgid "Active"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__activity_ids
+#: model:ir.model.fields,field_description:vet.field_animal_visit__activity_ids
+msgid "Activities"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__activity_exception_decoration
+#: model:ir.model.fields,field_description:vet.field_animal_visit__activity_exception_decoration
+msgid "Activity Exception Decoration"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__activity_state
+#: model:ir.model.fields,field_description:vet.field_animal_visit__activity_state
+msgid "Activity State"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__activity_type_icon
+#: model:ir.model.fields,field_description:vet.field_animal_visit__activity_type_icon
+msgid "Activity Type Icon"
+msgstr ""
+
+#. module: vet
+#: model:ir.actions.act_window,name:vet.allergy_action
+#: model:ir.model.fields,field_description:vet.field_animal__allergies
+#: model:ir.model.fields,field_description:vet.field_animal_allergy__name
+#: model:ir.ui.menu,name:vet.menu_allergies_list
+#: model_terms:ir.ui.view,arch_db:vet.vet_form_view
+msgid "Allergies"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal_visit__animal_id
+#: model:ir.model.fields,field_description:vet.field_animal_visit__name
+#: model_terms:ir.ui.view,arch_db:vet.animal_visit_search_view
+msgid "Animal"
+msgstr ""
+
+#. module: vet
+#: model:ir.model,name:vet.model_animal_allergy
+msgid "Animal allergies table"
+msgstr ""
+
+#. module: vet
+#: model:ir.model,name:vet.model_animal_breed
+msgid "Animal breeds table"
+msgstr ""
+
+#. module: vet
+#: model:ir.model,name:vet.model_animal_disease
+msgid "Animal diseases table"
+msgstr ""
+
+#. module: vet
+#: model_terms:ir.ui.view,arch_db:vet.vet_search_view
+msgid "Animal info"
+msgstr ""
+
+#. module: vet
+#: model:ir.model,name:vet.model_animal_medicine
+msgid "Animal medicines table"
+msgstr ""
+
+#. module: vet
+#: model:ir.model,name:vet.model_animal_surgery
+msgid "Animal surgeries table"
+msgstr ""
+
+#. module: vet
+#: model:ir.model,name:vet.model_animal_tag
+msgid "Animal tags table"
+msgstr ""
+
+#. module: vet
+#: model:ir.model,name:vet.model_animal_vaccine
+msgid "Animal vaccines table"
+msgstr ""
+
+#. module: vet
+#: model:ir.actions.act_window,name:vet.animals_action
+#: model:ir.ui.menu,name:vet.menu_animals_list
+msgid "Animals"
+msgstr ""
+
+#. module: vet
+#: model:ir.model,name:vet.model_animal_insurance
+msgid "Animals insurances table"
+msgstr ""
+
+#. module: vet
+#: model:ir.model,name:vet.model_animal_specie
+msgid "Animals species table"
+msgstr ""
+
+#. module: vet
+#: model:ir.model,name:vet.model_animal
+msgid "Animals table"
+msgstr ""
+
+#. module: vet
+#: model:ir.model,name:vet.model_animal_visit
+msgid "Animals visits table"
+msgstr ""
+
+#. module: vet
+#: model_terms:ir.ui.view,arch_db:vet.vet_search_view
+msgid "Archived"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__message_attachment_count
+#: model:ir.model.fields,field_description:vet.field_animal_visit__message_attachment_count
+msgid "Attachment Count"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__birthdate
+msgid "Birthdate"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__breed
+#: model:ir.model.fields,field_description:vet.field_animal_breed__name
+#: model:ir.model.fields,field_description:vet.field_animal_visit__breed
+#: model_terms:ir.ui.view,arch_db:vet.animal_visit_search_view
+#: model_terms:ir.ui.view,arch_db:vet.vet_search_view
+msgid "Breed"
+msgstr ""
+
+#. module: vet
+#: model:ir.actions.act_window,name:vet.breed_action
+#: model:ir.ui.menu,name:vet.menu_breeds_list
+msgid "Breeds"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal_insurance__characteristics
+#: model:ir.model.fields,field_description:vet.field_animal_specie__characteristics
+msgid "Characteristics"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal_tag__color
+msgid "Color"
+msgstr ""
+
+#. module: vet
+#: model:ir.ui.menu,name:vet.menu_configuration
+msgid "Configuration"
+msgstr ""
+
+#. module: vet
+#: model:ir.model,name:vet.model_res_partner
+msgid "Contact"
+msgstr "Contacte"
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal_insurance__cost
+msgid "Cost"
+msgstr ""
+
+#. module: vet
+#: model_terms:ir.ui.view,arch_db:vet.vet_form_view
+msgid "Create Quote"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__create_uid
+#: model:ir.model.fields,field_description:vet.field_animal_allergy__create_uid
+#: model:ir.model.fields,field_description:vet.field_animal_breed__create_uid
+#: model:ir.model.fields,field_description:vet.field_animal_disease__create_uid
+#: model:ir.model.fields,field_description:vet.field_animal_insurance__create_uid
+#: model:ir.model.fields,field_description:vet.field_animal_medicine__create_uid
+#: model:ir.model.fields,field_description:vet.field_animal_specie__create_uid
+#: model:ir.model.fields,field_description:vet.field_animal_surgery__create_uid
+#: model:ir.model.fields,field_description:vet.field_animal_tag__create_uid
+#: model:ir.model.fields,field_description:vet.field_animal_vaccine__create_uid
+#: model:ir.model.fields,field_description:vet.field_animal_visit__create_uid
+msgid "Created by"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__create_date
+#: model:ir.model.fields,field_description:vet.field_animal_allergy__create_date
+#: model:ir.model.fields,field_description:vet.field_animal_breed__create_date
+#: model:ir.model.fields,field_description:vet.field_animal_disease__create_date
+#: model:ir.model.fields,field_description:vet.field_animal_insurance__create_date
+#: model:ir.model.fields,field_description:vet.field_animal_medicine__create_date
+#: model:ir.model.fields,field_description:vet.field_animal_specie__create_date
+#: model:ir.model.fields,field_description:vet.field_animal_surgery__create_date
+#: model:ir.model.fields,field_description:vet.field_animal_tag__create_date
+#: model:ir.model.fields,field_description:vet.field_animal_vaccine__create_date
+#: model:ir.model.fields,field_description:vet.field_animal_visit__create_date
+msgid "Created on"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal_visit__date
+#: model_terms:ir.ui.view,arch_db:vet.animal_visit_search_view
+msgid "Date"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal_allergy__description
+#: model:ir.model.fields,field_description:vet.field_animal_breed__description
+#: model:ir.model.fields,field_description:vet.field_animal_medicine__description
+#: model:ir.model.fields,field_description:vet.field_animal_tag__description
+#: model:ir.model.fields,field_description:vet.field_animal_vaccine__description
+msgid "Description"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__diseases
+msgid "Diseases"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__display_name
+#: model:ir.model.fields,field_description:vet.field_animal_allergy__display_name
+#: model:ir.model.fields,field_description:vet.field_animal_breed__display_name
+#: model:ir.model.fields,field_description:vet.field_animal_disease__display_name
+#: model:ir.model.fields,field_description:vet.field_animal_insurance__display_name
+#: model:ir.model.fields,field_description:vet.field_animal_medicine__display_name
+#: model:ir.model.fields,field_description:vet.field_animal_specie__display_name
+#: model:ir.model.fields,field_description:vet.field_animal_surgery__display_name
+#: model:ir.model.fields,field_description:vet.field_animal_tag__display_name
+#: model:ir.model.fields,field_description:vet.field_animal_vaccine__display_name
+#: model:ir.model.fields,field_description:vet.field_animal_visit__display_name
+msgid "Display Name"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields.selection,name:vet.selection__animal__sex__female
+msgid "Female"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__message_follower_ids
+#: model:ir.model.fields,field_description:vet.field_animal_visit__message_follower_ids
+msgid "Followers"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__message_partner_ids
+#: model:ir.model.fields,field_description:vet.field_animal_visit__message_partner_ids
+msgid "Followers (Partners)"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,help:vet.field_animal__activity_type_icon
+#: model:ir.model.fields,help:vet.field_animal_visit__activity_type_icon
+msgid "Font awesome icon e.g. fa-tasks"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__has_message
+#: model:ir.model.fields,field_description:vet.field_animal_visit__has_message
+msgid "Has Message"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__height
+#: model_terms:ir.ui.view,arch_db:vet.vet_form_view
+msgid "Height"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__id
+#: model:ir.model.fields,field_description:vet.field_animal__identification
+#: model:ir.model.fields,field_description:vet.field_animal_allergy__id
+#: model:ir.model.fields,field_description:vet.field_animal_breed__id
+#: model:ir.model.fields,field_description:vet.field_animal_disease__id
+#: model:ir.model.fields,field_description:vet.field_animal_insurance__id
+#: model:ir.model.fields,field_description:vet.field_animal_medicine__id
+#: model:ir.model.fields,field_description:vet.field_animal_specie__id
+#: model:ir.model.fields,field_description:vet.field_animal_surgery__id
+#: model:ir.model.fields,field_description:vet.field_animal_tag__id
+#: model:ir.model.fields,field_description:vet.field_animal_vaccine__id
+#: model:ir.model.fields,field_description:vet.field_animal_visit__id
+msgid "ID"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__activity_exception_icon
+#: model:ir.model.fields,field_description:vet.field_animal_visit__activity_exception_icon
+msgid "Icon"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,help:vet.field_animal__activity_exception_icon
+#: model:ir.model.fields,help:vet.field_animal_visit__activity_exception_icon
+msgid "Icon to indicate an exception activity."
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,help:vet.field_animal__message_needaction
+#: model:ir.model.fields,help:vet.field_animal_visit__message_needaction
+msgid "If checked, new messages require your attention."
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,help:vet.field_animal__message_has_error
+#: model:ir.model.fields,help:vet.field_animal__message_has_sms_error
+#: model:ir.model.fields,help:vet.field_animal_visit__message_has_error
+#: model:ir.model.fields,help:vet.field_animal_visit__message_has_sms_error
+msgid "If checked, some messages have a delivery error."
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__insurance
+#: model:ir.model.fields,field_description:vet.field_animal_insurance__name
+#: model_terms:ir.ui.view,arch_db:vet.vet_search_view
+msgid "Insurance"
+msgstr ""
+
+#. module: vet
+#: model:ir.actions.act_window,name:vet.insurance_action
+#: model:ir.ui.menu,name:vet.menu_insurances_list
+msgid "Insurances"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__invoice_count
+#: model_terms:ir.ui.view,arch_db:vet.vet_form_view
+msgid "Invoices"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__message_is_follower
+#: model:ir.model.fields,field_description:vet.field_animal_visit__message_is_follower
+msgid "Is Follower"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields.selection,name:vet.selection__animal__size__large
+msgid "Large"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__write_uid
+#: model:ir.model.fields,field_description:vet.field_animal_allergy__write_uid
+#: model:ir.model.fields,field_description:vet.field_animal_breed__write_uid
+#: model:ir.model.fields,field_description:vet.field_animal_disease__write_uid
+#: model:ir.model.fields,field_description:vet.field_animal_insurance__write_uid
+#: model:ir.model.fields,field_description:vet.field_animal_medicine__write_uid
+#: model:ir.model.fields,field_description:vet.field_animal_specie__write_uid
+#: model:ir.model.fields,field_description:vet.field_animal_surgery__write_uid
+#: model:ir.model.fields,field_description:vet.field_animal_tag__write_uid
+#: model:ir.model.fields,field_description:vet.field_animal_vaccine__write_uid
+#: model:ir.model.fields,field_description:vet.field_animal_visit__write_uid
+msgid "Last Updated by"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__write_date
+#: model:ir.model.fields,field_description:vet.field_animal_allergy__write_date
+#: model:ir.model.fields,field_description:vet.field_animal_breed__write_date
+#: model:ir.model.fields,field_description:vet.field_animal_disease__write_date
+#: model:ir.model.fields,field_description:vet.field_animal_insurance__write_date
+#: model:ir.model.fields,field_description:vet.field_animal_medicine__write_date
+#: model:ir.model.fields,field_description:vet.field_animal_specie__write_date
+#: model:ir.model.fields,field_description:vet.field_animal_surgery__write_date
+#: model:ir.model.fields,field_description:vet.field_animal_tag__write_date
+#: model:ir.model.fields,field_description:vet.field_animal_vaccine__write_date
+#: model:ir.model.fields,field_description:vet.field_animal_visit__write_date
+msgid "Last Updated on"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields.selection,name:vet.selection__animal__sex__male
+msgid "Male"
+msgstr ""
+
+#. module: vet
+#: model:ir.ui.menu,name:vet.menu_medical_management
+msgid "Medical Management"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal_medicine__name
+msgid "Medicine"
+msgstr ""
+
+#. module: vet
+#: model:ir.actions.act_window,name:vet.medicine_action
+#: model:ir.model.fields,field_description:vet.field_animal__medicines
+#: model:ir.ui.menu,name:vet.menu_medicines_list
+#: model_terms:ir.ui.view,arch_db:vet.vet_form_view
+msgid "Medicines"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields.selection,name:vet.selection__animal__size__medium
+msgid "Medium"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__message_has_error
+#: model:ir.model.fields,field_description:vet.field_animal_visit__message_has_error
+msgid "Message Delivery error"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__message_ids
+#: model:ir.model.fields,field_description:vet.field_animal_visit__message_ids
+msgid "Messages"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__my_activity_date_deadline
+#: model:ir.model.fields,field_description:vet.field_animal_visit__my_activity_date_deadline
+msgid "My Activity Deadline"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__name
+#: model_terms:ir.ui.view,arch_db:vet.animal_partner
+#: model_terms:ir.ui.view,arch_db:vet.vet_form_view
+msgid "Name"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__activity_date_deadline
+#: model:ir.model.fields,field_description:vet.field_animal_visit__activity_date_deadline
+msgid "Next Activity Deadline"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__activity_summary
+#: model:ir.model.fields,field_description:vet.field_animal_visit__activity_summary
+msgid "Next Activity Summary"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__activity_type_id
+#: model:ir.model.fields,field_description:vet.field_animal_visit__activity_type_id
+msgid "Next Activity Type"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__internal_notes
+#: model_terms:ir.ui.view,arch_db:vet.vet_form_view
+msgid "Notes"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__message_needaction_counter
+#: model:ir.model.fields,field_description:vet.field_animal_visit__message_needaction_counter
+msgid "Number of Actions"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__message_has_error_counter
+#: model:ir.model.fields,field_description:vet.field_animal_visit__message_has_error_counter
+msgid "Number of errors"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,help:vet.field_animal__message_needaction_counter
+#: model:ir.model.fields,help:vet.field_animal_visit__message_needaction_counter
+msgid "Number of messages requiring action"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,help:vet.field_animal__message_has_error_counter
+#: model:ir.model.fields,help:vet.field_animal_visit__message_has_error_counter
+msgid "Number of messages with delivery error"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal_disease__observations
+#: model:ir.model.fields,field_description:vet.field_animal_surgery__observations
+#: model:ir.model.fields,field_description:vet.field_animal_visit__observations
+msgid "Observations"
+msgstr ""
+
+#. module: vet
+#: model_terms:ir.ui.view,arch_db:vet.vet_form_view
+msgid "Other information"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__owner
+#: model:ir.model.fields,field_description:vet.field_animal_visit__owner
+#: model_terms:ir.ui.view,arch_db:vet.animal_visit_search_view
+#: model_terms:ir.ui.view,arch_db:vet.vet_search_view
+msgid "Owner"
+msgstr ""
+
+#. module: vet
+#: model_terms:ir.ui.view,arch_db:vet.vet_kanban_view
+msgid "Owner:"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_res_partner__pet
+#: model:ir.model.fields,field_description:vet.field_res_users__pet
+msgid "Pet"
+msgstr ""
+
+#. module: vet
+#: model_terms:ir.ui.view,arch_db:vet.animal_partner
+msgid "Pets"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__photo
+msgid "Photo"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__quote_count
+#: model_terms:ir.ui.view,arch_db:vet.vet_form_view
+msgid "Quotes"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal_visit__reason
+msgid "Reason"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal_visit__sequence
+msgid "Reference"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__activity_user_id
+#: model:ir.model.fields,field_description:vet.field_animal_visit__activity_user_id
+msgid "Responsible User"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__message_has_sms_error
+#: model:ir.model.fields,field_description:vet.field_animal_visit__message_has_sms_error
+msgid "SMS Delivery error"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__sex
+#: model:ir.model.fields,field_description:vet.field_animal_visit__sex
+#: model_terms:ir.ui.view,arch_db:vet.animal_visit_search_view
+#: model_terms:ir.ui.view,arch_db:vet.vet_search_view
+msgid "Sex"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__size
+#: model_terms:ir.ui.view,arch_db:vet.vet_search_view
+msgid "Size"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields.selection,name:vet.selection__animal__size__small
+msgid "Small"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__species
+#: model:ir.model.fields,field_description:vet.field_animal_breed__specie
+#: model:ir.model.fields,field_description:vet.field_animal_specie__name
+#: model:ir.model.fields,field_description:vet.field_animal_visit__specie
+#: model_terms:ir.ui.view,arch_db:vet.animal_visit_search_view
+#: model_terms:ir.ui.view,arch_db:vet.vet_search_view
+msgid "Specie"
+msgstr ""
+
+#. module: vet
+#: model:ir.actions.act_window,name:vet.specie_action
+#: model:ir.ui.menu,name:vet.menu_species_list
+msgid "Species"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,help:vet.field_animal__activity_state
+#: model:ir.model.fields,help:vet.field_animal_visit__activity_state
+msgid ""
+"Status based on activities\n"
+"Overdue: Due date is already passed\n"
+"Today: Activity date is today\n"
+"Planned: Future activities."
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal_visit__suggested_treatment
+msgid "Suggested treatment"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal_disease__name
+msgid "Surgerie"
+msgstr ""
+
+#. module: vet
+#: model:ir.actions.act_window,name:vet.surgery_action
+#: model:ir.model.fields,field_description:vet.field_animal__surgeries
+#: model:ir.ui.menu,name:vet.menu_surgeries_list
+#: model_terms:ir.ui.view,arch_db:vet.vet_form_view
+msgid "Surgeries"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal_surgery__name
+msgid "Surgery"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal_tag__name
+msgid "Tag"
+msgstr ""
+
+#. module: vet
+#: model:ir.actions.act_window,name:vet.tag_action
+#: model:ir.model.fields,field_description:vet.field_animal__tags
+#: model:ir.ui.menu,name:vet.menu_tags_list
+msgid "Tags"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,help:vet.field_animal__activity_exception_decoration
+#: model:ir.model.fields,help:vet.field_animal_visit__activity_exception_decoration
+msgid "Type of the exception activity on record."
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal_vaccine__name
+msgid "Vaccine"
+msgstr ""
+
+#. module: vet
+#: model:ir.actions.act_window,name:vet.vaccine_action
+#: model:ir.model.fields,field_description:vet.field_animal__vaccines
+#: model:ir.ui.menu,name:vet.menu_vaccines_list
+#: model_terms:ir.ui.view,arch_db:vet.vet_form_view
+msgid "Vaccines"
+msgstr ""
+
+#. module: vet
+#: model:ir.ui.menu,name:vet.menu_animals
+msgid "Vet"
+msgstr ""
+
+#. module: vet
+#: model_terms:ir.ui.view,arch_db:vet.animal_visit_search_view
+msgid "Visit info"
+msgstr ""
+
+#. module: vet
+#: model_terms:ir.ui.view,arch_db:vet.vet_search_view
+msgid "Visited"
+msgstr ""
+
+#. module: vet
+#: model:ir.actions.act_window,name:vet.visit_action
+#: model:ir.model.fields,field_description:vet.field_animal__visit_count
+#: model:ir.model.fields,field_description:vet.field_animal__visit_ids
+#: model:ir.ui.menu,name:vet.menu_visits_list
+#: model_terms:ir.ui.view,arch_db:vet.vet_form_view
+msgid "Visits"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__website_message_ids
+#: model:ir.model.fields,field_description:vet.field_animal_visit__website_message_ids
+msgid "Website Messages"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,help:vet.field_animal__website_message_ids
+#: model:ir.model.fields,help:vet.field_animal_visit__website_message_ids
+msgid "Website communication history"
+msgstr ""
+
+#. module: vet
+#: model:ir.model.fields,field_description:vet.field_animal__weight
+#: model_terms:ir.ui.view,arch_db:vet.vet_form_view
+msgid "Weight"
+msgstr ""
+
+#. module: vet
+#: model_terms:ir.ui.view,arch_db:vet.vet_search_view
+msgid "With surgeries"
+msgstr ""

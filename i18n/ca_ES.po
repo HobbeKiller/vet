@@ -28,17 +28,17 @@ msgstr "m"
 #. module: vet
 #: model_terms:ir.ui.view,arch_db:vet.animal_visit_kanban_view
 msgid "<strong> Animal</strong>:"
-msgstr "Animal"
+msgstr "<strong> Animal</strong>:"
 
 #. module: vet
 #: model_terms:ir.ui.view,arch_db:vet.vet_kanban_view
 msgid "<strong>ID</strong>:"
-msgstr "ID"
+msgstr "<strong>ID</strong>:"
 
 #. module: vet
 #: model_terms:ir.ui.view,arch_db:vet.animal_visit_kanban_view
 msgid "<strong>Owner</strong>:"
-msgstr "Propietari"
+msgstr "<strong>Propietari</strong>:"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal__message_needaction
@@ -429,7 +429,7 @@ msgstr "Mascle"
 #. module: vet
 #: model:ir.ui.menu,name:vet.menu_medical_management
 msgid "Medical Management"
-msgstr ""
+msgstr "Administració medica"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_animal_medicine__name
@@ -545,7 +545,7 @@ msgstr "Propietari"
 #. module: vet
 #: model_terms:ir.ui.view,arch_db:vet.vet_kanban_view
 msgid "Owner:"
-msgstr Propietari:""
+msgstr "Propietari:"
 
 #. module: vet
 #: model:ir.model.fields,field_description:vet.field_res_partner__pet

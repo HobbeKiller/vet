@@ -1,16 +1,16 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'Veterinary management',
-    'summary': 'Manage the animals that visit your veterinary clinic',
+    'name': 'Gestió veterinària',
+    'summary': 'Gestiona els animals que visiten la teva clínica veterinària',
     'description': """
-Veterinary management for Odoo 18 Community.
+Gestió veterinària per a Odoo 18 Community.
 
-Features:
-- Animal records
-- Owners and linked pets
-- Visits
-- Medicines, vaccines, allergies, surgeries and insurances
-- Quotes and invoices from the owner
+Característiques:
+- Fitxes d'animals
+- Propietaris i mascotes vinculades
+- Visites
+- Medicaments, vacunes, al·lèrgies, cirurgies i assegurances
+- Pressupostos i factures del propietari
 """,
     'author': 'Anatoly Lutaev',
     'website': '',

@@ -19,7 +19,9 @@ Features:
     'version': '18.0.1.0.0',
     'depends': ['base', 'mail', 'contacts', 'account', 'sale_management'],
     'data': [
-        'security/ir.model.access.csv',
+        'security/groups.xml',          # 👈 PRIMERO
+        'security/ir.model.access.csv', # 👈 DESPUÉS
+        'security/rules.xml',
         'views/animals_views.xml',
         'views/medicines_views.xml',
         'views/allergies_views.xml',
